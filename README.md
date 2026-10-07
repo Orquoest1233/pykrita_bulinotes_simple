@@ -1,4 +1,4 @@
-# Notes Chaild for Krita
+# Notes for Krita
 A Krita plugin that implements a dockable panel (docker) featuring a list of persistent notes or tasks per document, with support for colors, completion status, and drag-and-drop reordering.
 
 - This plugin was created based on Grum999's Buli Notes, but reimplemented in my own way.
