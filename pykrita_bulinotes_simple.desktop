@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Service
+ServiceTypes=Krita/PythonPlugin
+X-KDE-Library=pykrita_bulinotes_simple
+X-Krita-Manual=manual
+Name=Notas Chaild
+Comment=Lista simple de notas persistentes
+Icon=notes
